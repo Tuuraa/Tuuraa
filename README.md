@@ -3,6 +3,8 @@
  	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
+<br/>
+<br/>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif"/>
@@ -25,6 +27,5 @@
 	<img src="https://img.icons8.com/dusk/344/python.png" Wight="30" Height="30"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" Wight="30" Height="30"/>
 	<img src="https://img.icons8.com/color/344/c-sharp-logo.png" Wight="25" Height="25">
-	<img src="https://pp.vk.me/c626821/v626821623/444fd/jiOHK3TG0uM.jpg" Wight="30" Height="30">
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6i1m8PKbNVWgsAeRcYWisB5OACUPeVEqNA&usqp=CAU" Wight="40" Height="30">
+
 </div>
