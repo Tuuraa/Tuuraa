@@ -24,7 +24,7 @@
 
 
 <h2 align="center">🔥 My Stats :</h2>
-	(https://streak-stats.demolab.com?user=Tuuraa&theme=dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tuuraa&theme=dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
 
 ### My stack
 
