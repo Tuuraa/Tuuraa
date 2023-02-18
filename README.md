@@ -23,8 +23,6 @@
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=Tuuraa&theme=dark&hide_border=true&border_radius=4.7&background=2D1010)](https://git.io/streak-stats)
 
-### My stack
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuuraa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,6 +30,8 @@
 	
 	
 </div>
+
+### My stack
 
 <div id="Stack">
 	<img src="https://img.icons8.com/dusk/344/python.png" Wight="30" Height="30"/>
