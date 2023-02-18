@@ -25,7 +25,7 @@
 
 <h2 align="center">🔥 My Stats :</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://streak-stats.demolab.com?user=Tuuraa&theme=dark&hide_border=true&border_radius=4.7&background=2D1010)](https://git.io/streak-stats" />
+<img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=Tuuraa&theme=dark&hide_border=true&border_radius=4.7&background=2D1010)](https://git.io/streak-stats)" />
 
 ### My stack
 
