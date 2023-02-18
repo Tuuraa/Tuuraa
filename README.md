@@ -35,3 +35,5 @@
 	<img src="https://img.icons8.com/color/344/c-sharp-logo.png" Wight="25" Height="25">
 
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuuraa)](https://github.com/anuraghazra/github-readme-stats)
