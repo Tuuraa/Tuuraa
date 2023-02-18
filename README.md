@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuuraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 	
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tuuraa)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
 </div>
 
