@@ -4,9 +4,7 @@
  	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </div>
 <br/>
-	
 <br/>
-	
 
   <img src="https://raw.githubusercontent.com/BaggerFast/BaggerFast/7cec79dcbf9094e2b32d47439e1a2afe64e768bf/assets/github-snake.svg"/>
 
