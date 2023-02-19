@@ -8,8 +8,6 @@
 
   <img src="https://raw.githubusercontent.com/BaggerFast/BaggerFast/7cec79dcbf9094e2b32d47439e1a2afe64e768bf/assets/github-snake.svg"/>
 
-
-	
 <div id="Links" align="center">
   <a href="https://t.me/just_aartur">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=black"/>
