@@ -20,6 +20,8 @@
 
 <h2 align="center">🔥 My Stats :</h2>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tuuraa&theme=dark)
+
    [![GitHub Streak](https://streak-stats.demolab.com?user=Tuuraa&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuuraa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
