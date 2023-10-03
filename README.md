@@ -1,7 +1,11 @@
 <div align="center">
     <div>
 	<span style="font-size:50"> Hey there </span>
- 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ 	<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
     </div>
 <br/>
 <br/>
