@@ -29,7 +29,7 @@
 	
 </div>
 
-### My stack
+<p align="center">My Stack</p>
 
 <div id="Stack">
 	<img src="https://img.icons8.com/dusk/344/python.png" Wight="30" Height="30"/>
