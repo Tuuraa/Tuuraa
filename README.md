@@ -34,11 +34,13 @@
 <div id="Stack">
 	<img src="https://img.icons8.com/dusk/344/python.png" Wight="30" Height="30"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" Wight="30" Height="30"/>
-	<img src="https://img.icons8.com/color/344/c-sharp-logo.png" Wight="25" Height="25"/>
- 	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" Wight="25" Height="25" />
- 	<img src="https://img.icons8.com/?size=80&id=VXQrhy9fWtm1&format=png" Wight="25" Height="25" />
-   	<img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png" Wight="25" Height="25" />
-    	<img src="https://avatars.githubusercontent.com/u/33784865?s=280&v=4" Wight="25" Height="25" />
+	<img src="https://img.icons8.com/color/344/c-sharp-logo.png" Wight="20" Height="30"/>
+ 	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" Wight="30" Height="30" />
+ 	<img src="https://img.icons8.com/?size=80&id=VXQrhy9fWtm1&format=png" Wight="30" Height="30" />
+   	<img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png" Wight="30" Height="30" />
+    	<img src="https://avatars.githubusercontent.com/u/33784865?s=280&v=4" Wight="30" Height="30" />
+     	<img src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" Wight="25" Height="25" />
+      	<img src="https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png" Wight="25" Height="25" />
 
 </div>
 
