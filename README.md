@@ -39,8 +39,8 @@
  	<img src="https://img.icons8.com/?size=80&id=VXQrhy9fWtm1&format=png" Wight="30" Height="30" />
    	<img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png" Wight="30" Height="30" />
     	<img src="https://avatars.githubusercontent.com/u/33784865?s=280&v=4" Wight="30" Height="30" />
-     	<img src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" Wight="25" Height="25" />
-      	<img src="https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png" Wight="25" Height="25" />
+     	<img src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" Wight="30" Height="30" />
+      	<img src="https://img.icons8.com/?size=48&id=EAUyKy3IwmqM&format=png" Wight="30" Height="30" />
 
 </div>
 
