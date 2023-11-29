@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-	<span style="font-size:50"> Hey there </span>
+	<h1 style="font-size:50"> Hey there </h1>
  	<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
